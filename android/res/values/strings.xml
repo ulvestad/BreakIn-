@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">BreakIn</string>
+
+    <!-- Menu Items -->
+    <string name="menu_item_about">About</string>
+
+
+
+    <!-- MainActivity -->
+    <string name="main_activity_tab_single_player">Single-player</string>
+    <string name="main_activity_tab_multi_player">Multi-player</string>
+
+
+    <!-- MultiplayerFragment -->
+    <string name="multiplayer_fragment_game_mode">Game Mode</string>
+    <string name="multiplayer_fragment_game_mode_competitive">Competitive</string>
+    <string name="multiplayer_fragment_game_mode_cooperative">Cooperative</string>
+    <string name="multiplayer_fragment_level">Level</string>
+
+
+    <!-- AboutActivity -->
+    <string name="about_activity_title">About</string>
+    <string name="about_activity_description">Description</string>
+    <string name="about_activity_description_text">The goal of BreakIn is to clear out all the bricks on the screen and achieve the highest score possible.
+        \nIf the ball goes past the paddle, a percentage of the score will be deducted.
+        The game is over when all the bricks have been cleared.</string>
+    <string name="about_activity_normal_brick"><b>Normal Brick</b>\nJust a normal brick</string>
+    <string name="about_activity_hard_brick"><b>Hard Brick</b>\nLike Normal Brick, but takes a few more hits to break it</string>
+    <string name="about_activity_speedup_brick"><b>Speedup Brick</b>\nSpeeds up the ball for a few seconds</string>
+    <string name="about_activity_slowdown_brick"><b>Slowdown Brick</b>\nSlowes down the ball for a few seconds</string>
+    <string name="about_activity_bigger_paddle_brick"><b>Bigger Paddle Brick</b>\nMakes the paddle bigger for a few seconds</string>
+    <string name="about_activity_core_brick"><b>Core Brick</b>\nBreaking this awards a large amount of points, and ends the game</string>
+
+</resources>
